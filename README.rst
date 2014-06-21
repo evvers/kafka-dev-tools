@@ -14,6 +14,12 @@ or::
 
   $ pip install --allow-external RBTools --allow-unverified RBTools kafka-dev-tools
 
+Before you start
+----------------
+
+* `Create Jira account <https://issues.apache.org/jira/secure/Signup!default.jspa>`_
+* `Create Review Board account <https://reviews.apache.org/account/register/>`_
+
 Links
 -----
 
