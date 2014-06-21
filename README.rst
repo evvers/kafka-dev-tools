@@ -19,6 +19,7 @@ Before you start
 
 * `Create Jira account <https://issues.apache.org/jira/secure/Signup!default.jspa>`_
 * `Create Review Board account <https://reviews.apache.org/account/register/>`_
+* Add to bookmarks `builds page <https://builds.apache.org/view/All/job/Kafka-trunk/>`_
 
 Links
 -----
