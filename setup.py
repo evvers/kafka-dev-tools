@@ -13,14 +13,14 @@ def read(*parts):
 
 
 setup(
-    name='kafka-patch-review',
+    name='kafka-dev-tools',
     version='0.0.1',
     author='Neha Narkhede',
     author_email='neha.narkhede@gmail.com',
     maintainer='Evgeny Vereshchagin',
     maintainer_email='evvers@ya.ru',
-    url='https://github.com/evvers/kafka-patch-review',
-    description='Kafka patch review tool',
+    url='https://github.com/evvers/kafka-dev-tools',
+    description='Tools for Kafka developers',
     long_description=read('README.rst'),
     packages=find_packages(),
     install_requires=[
