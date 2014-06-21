@@ -29,7 +29,7 @@ setup(
     ],
     entry_points = {
         'console_scripts': [
-            'kafka-patch-review=kafka_patch_review:main',
+            'kafka-patch-review=kafka_dev_tools.utils.kafka_patch_review:main',
         ],
     },
     classifiers=[
