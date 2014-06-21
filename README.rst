@@ -1,19 +1,19 @@
-Kafka patch review tool.
+Tools for Kafka developers.
 
 Installation
 ------------
 
-You can install kafka-patch-review
+You can install kafka-dev-tools
 with these commands::
 
-  $ easy_install kafka-patch-review
+  $ easy_install kafka-dev-tools
 
 or::
 
-  $ pip install --allow-external RBTools --allow-unverified RBTools kafka-patch-review
+  $ pip install --allow-external RBTools --allow-unverified RBTools kafka-dev-tools
 
 Links
 -----
 
-* `GitHub <https://github.com/evvers/kafka-patch-review/>`_
-* `PyPi <https://pypi.python.org/kafka-patch-review/>`_
+* `GitHub <https://github.com/evvers/kafka-dev-tools/>`_
+* `PyPI <https://pypi.python.org/kafka-dev-tools/>`_
