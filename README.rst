@@ -18,4 +18,4 @@ Links
 -----
 
 * `GitHub <https://github.com/evvers/kafka-dev-tools/>`_
-* `PyPI <https://pypi.python.org/kafka-dev-tools/>`_
+* `PyPI <https://pypi.python.org/pypi/kafka-dev-tools/>`_
